@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/device_info/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/device_info/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/device_info/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/device_info/intermediates/merged_res/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/device_info/intermediates/merged_res/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

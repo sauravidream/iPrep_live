@@ -1,0 +1,7 @@
+#Mon Feb 27 17:06:50 IST 2023
+base.1=/Users/sauravr/FlutterProjects/iPrep_live/build/app/intermediates/dex/release/minifyReleaseWithR8/classes2.dex
+path.1=classes2.dex
+base.0=/Users/sauravr/FlutterProjects/iPrep_live/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

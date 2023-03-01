@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/sign_in_with_apple/intermediates/merged_res/release/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/0649f6e617cdd2f80bda862384f5dfab/transformed/browser-1.2.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,263,375",
+                        "endColumns": "105,101,111,101",
+                        "endOffsets": "156,258,370,472"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/sign_in_with_apple/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/344d9e73a0e77fc6b641d214277b18c4/transformed/core-1.6.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/0649f6e617cdd2f80bda862384f5dfab/transformed/browser-1.2.0/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,263,375",
+                        "endColumns": "105,101,111,101",
+                        "endOffsets": "156,258,370,472"
+                    }
+                }
+            ]
+        }
+    ]
+}

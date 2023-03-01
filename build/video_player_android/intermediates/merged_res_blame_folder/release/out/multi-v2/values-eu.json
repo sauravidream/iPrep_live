@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/video_player_android/intermediates/merged_res/release/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/3d2cea7b9ad6a8e6c0213f11750deded/transformed/core-1.7.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "753",
+                        "endColumns": "100",
+                        "endOffsets": "849"
+                    }
+                },
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/389b05c5661f3a0c794a6d361b2866cb/transformed/jetified-exoplayer-core-2.18.1/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,253,325,402,476,587,685",
+                        "endColumns": "68,62,65,71,76,73,110,97,67",
+                        "endOffsets": "119,182,248,320,397,471,582,680,748"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/video_player_android/intermediates/incremental/mergeReleaseResources/merged.dir/values-eu/values-eu.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/3d2cea7b9ad6a8e6c0213f11750deded/transformed/core-1.7.0/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "753",
+                        "endColumns": "100",
+                        "endOffsets": "849"
+                    }
+                },
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/389b05c5661f3a0c794a6d361b2866cb/transformed/jetified-exoplayer-core-2.18.1/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,253,325,402,476,587,685",
+                        "endColumns": "68,62,65,71,76,73,110,97,67",
+                        "endOffsets": "119,182,248,320,397,471,582,680,748"
+                    }
+                }
+            ]
+        }
+    ]
+}

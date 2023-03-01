@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/de494aeef9070c1bf1517f85ce275f12/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/de494aeef9070c1bf1517f85ce275f12/transformed/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

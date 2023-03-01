@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/drawable-ldpi-v4/btn_clear.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/drawable-ldpi-v4/btn_clear.png"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/drawable-ldpi-v4/image_placeholder.png",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/drawable-ldpi-v4/image_placeholder.png"
+    }
+]

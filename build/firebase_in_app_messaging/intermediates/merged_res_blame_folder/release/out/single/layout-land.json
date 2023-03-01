@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/card_landscape_inner.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/layout-land/card_landscape_inner.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/card.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/layout-land/card.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/layout-land/modal.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/layout-land/modal.xml"
+    }
+]

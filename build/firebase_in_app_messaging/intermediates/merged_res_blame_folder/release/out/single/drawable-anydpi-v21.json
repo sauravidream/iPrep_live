@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/drawable-anydpi-v21/btn_clear.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/drawable-anydpi-v21/btn_clear.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/firebase_in_app_messaging/intermediates/merged_res/release/drawable-anydpi-v21/image_placeholder.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/51d9cca59a68ddff2cb367eb04535426/transformed/jetified-firebase-inappmessaging-display-20.3.0/res/drawable-anydpi-v21/image_placeholder.xml"
+    }
+]

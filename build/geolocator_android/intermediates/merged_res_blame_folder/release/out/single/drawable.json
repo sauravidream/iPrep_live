@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/notification_bg_low.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/651edfbf52ad190f5856ee8678214131/transformed/core-1.9.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/notification_icon_background.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/651edfbf52ad190f5856ee8678214131/transformed/core-1.9.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/651edfbf52ad190f5856ee8678214131/transformed/core-1.9.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/notification_bg.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/651edfbf52ad190f5856ee8678214131/transformed/core-1.9.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sauravr/FlutterProjects/iPrep_live/build/geolocator_android/intermediates/merged_res/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/sauravr/.gradle/caches/transforms-3/36a037e7c796e22f02b8eb3578b265f1/transformed/jetified-play-services-base-18.1.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    }
+]

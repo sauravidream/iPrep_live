@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/image_cropper/intermediates/merged_res/release/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/a5a98270260b72fa594e8bd3314f70e2/transformed/appcompat-1.3.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/sauravr/FlutterProjects/iPrep_live/build/image_cropper/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/sauravr/.gradle/caches/transforms-3/a5a98270260b72fa594e8bd3314f70e2/transformed/appcompat-1.3.0/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}
